@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+Runs as -> anything -> BoooooooooooooooooM
+
 <!--
 **dev-dinoop/dev-dinoop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
